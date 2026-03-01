@@ -2,7 +2,7 @@
 
 A simple and lightweight Command-Line Interface (CLI) application built using Node.js and [Commander](https://www.npmjs.com/package/commander). This application natively provides multiple math utility commands, file information tracking, and four distinct API integrations without any complex OOP architecture.
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 1. **Prerequisites**: Ensure you have [Node.js](https://nodejs.org/en/) installed.
 2. **Install Dependencies**:
@@ -11,7 +11,7 @@ A simple and lightweight Command-Line Interface (CLI) application built using No
    npm install
    ```
 
-## 🛠️ Available Commands
+## Available Commands
 
 The CLI tool supports 10 subcommands divided into 3 categories.
 
@@ -31,7 +31,7 @@ The CLI tool supports 10 subcommands divided into 3 categories.
 - `quote`: Retrieves a random inspirational quote from dummyjson.
 - `joke`: Fetches a random setup/punchline joke from the Official Joke API.
 
-## 💡 Example Usage
+## Example Usage
 
 You run these commands by directly executing `cli.ts` in your node environment:
 
